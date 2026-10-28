@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-RandNext is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://randnext.com
+RandNext provides a collection of free random data generators accessible via a simple HTTP API. The service offers 48 distinct endpoints delivering random jokes, emojis, quotes, names, passwords, colors, and many other fun or utility values. All endpoints are publicly available without authentication, returning JSON responses suitable for integration into applications, games, or testing environments. The platform emphasizes ease of use, low latency, and a broad variety of random content to support developers and creators looking for quick, unpredictable data.
+
+**Areas:** Company · Random · Generator · API · Fun
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://randnext.com)
+- [Documentation](https://randnext.com/generators)
+- [Getting started](https://randnext.com)
+- [API reference](https://randnext.com/api)
+
+**APIs profiled:** 7
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/randnext/](https://apis.io/providers/randnext/).
